@@ -5,11 +5,11 @@
 | |_| | | | (_| \__ \__ \ . \  __/ |  | | | |  __/ |
  \____|_|  \__,_|___/___/_|\_\___|_|  |_| |_|\___|_|
 *****************************************************
- Source    : Based on A515F_EUR_S source code 
- Chipset   : Exynos 9611 with Mali G72 MP3     
- Android   : For OneUI5/Supported AOSP ROMs
+ Source    : Based on A908N_KOR_S source code 
+ Chipset   : Qualcomm SM8150 with Adreno 640
+ Android   : For AOSP/OneUI
  Developer : Royna (@roynatech on TG)
- Support   : Telegram @galaxya51support 
+ Support   : -
 *****************************************************
                  CLEAN AND STABLE KERNEL         
 *****************************************************
@@ -19,5 +19,5 @@
 *****************************************************
  Removed Security Stuffs, debugging codes, etc..
  Balance between performance and battery life   
- Compiled kernel with Neutron Clang 17.0.0
+ Compiled kernel with Neutron Clang 18.0.0
 *****************************************************
